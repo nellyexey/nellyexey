@@ -1,5 +1,6 @@
-### Hi there 👋
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+### Hello 👋
+
+Hello, I'm Nayli Nabihah Jasni, a data engineering student of Universiti Teknologi Malaysia from Kuala Lumpur. ☀️
 
 <!--
 **nellyexey/nellyexey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
