@@ -1,4 +1,4 @@
-### Hello, you have reached @nellyexey 👋
+### Hello, you have reached to @nellyexey 👋
 
 Hello, I'm Nayli Nabihah Jasni, a data engineering student of Universiti Teknologi Malaysia from Kuala Lumpur. ☀️
 
