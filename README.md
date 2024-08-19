@@ -1,5 +1,5 @@
 <h1 align="center">Hello, you have reached to @nellyexey 👋</h1>
-<p align="center">I'm Nayli Nabihah Jasni, a data engineering student of Universiti Teknologi Malaysia from Kuala Lumpur.☀️</p>
+<p align="center">I'm Nayli Nabihah Jasni, a gradute data engineering student of Universiti Teknologi Malaysia from Kuala Lumpur.☀️</p>
 
 # 💻 About me:
 - New to MongoDB and still learning it.
